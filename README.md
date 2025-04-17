@@ -23,18 +23,6 @@
 <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,react,nextjs,tailwind,html,css,git,vscode,discord" />
 </div>
 
----
-
-<h2 align="center">🎮 Games I Play</h2>
-
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1359118520515952642/1361552271342833826/minecraft_logo_icon_168974.png" width="50px" />
-  <img src="https://cdn.discordapp.com/attachments/1359118520515952642/1361553097486368868/roblox_alt_macos_bigsur_icon_189774.png" width="50px" />
-  <img src="https://cdn.discordapp.com/attachments/1359118520515952642/1361553844668207215/8e0d462eef87f64eb590a5d9c848c0c1.png" width="50px" />
-</div>
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
