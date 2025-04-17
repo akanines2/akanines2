@@ -40,7 +40,7 @@
 
 > Music isn’t just sound – it’s **emotion in motion.**
 
-- 🎵 Check out my latest song here: [My Track](#) *(ใส่ลิงก์เพลงตรงนี้นะครับ)*
+- 🎵 Check out my latest song here: [My Track]((https://kp-album.vercel.app/)) *(ใส่ลิงก์เพลงตรงนี้นะครับ)*
 - 🎹 Tools I use: FL Studio, GarageBand, and my **creative brain** 😉
 
 ---
