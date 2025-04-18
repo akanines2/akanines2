@@ -51,7 +51,7 @@
 | 💬 Discord | `Robocoz_.` |
 | 👍 Facebook | [Pongsakorn Boonsaner](https://web.facebook.com/Kaoder.p) |
 | 🧡 My Music | [KP ʕ•ᴥ•ʔ (Album)](https://kp-album.vercel.app) |
-| 🧠 MBTI | INFP – Quiet on the outside, musical on the inside 🎶 |
+
 
 ---
 
