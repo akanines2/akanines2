@@ -8,6 +8,8 @@
 
 ---
 
+## 🚀 now develop PixelOS and Model ai Pixel by ME :)
+
 ## 💫 About Me
 
 - 🔭 Currently building: **Discord Systems + Music Projects**
